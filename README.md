@@ -1,2 +1,0 @@
-# WHCMS-Full
-Full WHCMS
